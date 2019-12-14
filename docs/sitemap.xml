@@ -3,17 +3,29 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://pcpg.github.io/moinho/post/</loc>
+    <lastmod>2019-09-30T15:57:00+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://pcpg.github.io/moinho/</loc>
+    <lastmod>2019-09-30T15:57:00+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://pcpg.github.io/moinho/post/18919-slave/</loc>
+    <lastmod>2019-09-30T15:57:00+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://pcpg.github.io/moinho/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://pcpg.github.io/moinho/tags/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://pcpg.github.io/moinho/</loc>
     <priority>0</priority>
   </url>
   
