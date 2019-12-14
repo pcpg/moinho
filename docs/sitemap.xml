@@ -3,17 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://pcpg.github.io/test/categories/</loc>
+    <loc>https://pcpg.github.io/moinho/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://pcpg.github.io/test/tags/</loc>
+    <loc>https://pcpg.github.io/moinho/tags/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://pcpg.github.io/test/</loc>
+    <loc>https://pcpg.github.io/moinho/</loc>
     <priority>0</priority>
   </url>
   
