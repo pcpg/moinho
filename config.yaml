@@ -1,0 +1,13 @@
+baseURL: https://pcpg.github.io/test/
+disablePathToLower: true
+languageCode: ja
+title: moinho, nyanpen 2019
+publishDir: docs
+canonifyurls: true
+theme: lanyon-hugo
+params:
+  AuthorName: ivain
+  GitHubUser: pcpg
+  SidebarRecentLimit: 5
+  tagline: version 2019.12
+  title: Historia de um moinho
