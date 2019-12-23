@@ -6,18 +6,27 @@
     <description>Recent content in Posts on moinho, nyanpen 2019</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Sun, 15 Dec 2019 16:40:22 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Dec 2019 22:30:00 +0000</lastBuildDate>
     
 	<atom:link href="https://pcpg.github.io/moinho/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>ようやく届いたかね</title>
+      <title>Ann, isto é teu gosto?</title>
+      <link>https://pcpg.github.io/moinho/post/19003-thisIsTestToo/</link>
+      <pubDate>Mon, 23 Dec 2019 22:30:00 +0000</pubDate>
+      
+      <guid>https://pcpg.github.io/moinho/post/19003-thisIsTestToo/</guid>
+      <description>korewan</description>
+    </item>
+    
+    <item>
+      <title>ようやく届いたかね タイトルの変更テスト</title>
       <link>https://pcpg.github.io/moinho/post/191215testC/</link>
       <pubDate>Sun, 15 Dec 2019 16:40:22 +0000</pubDate>
       
       <guid>https://pcpg.github.io/moinho/post/191215testC/</guid>
-      <description>ようやく届いたかね </description>
+      <description>ようやく届いたかね こちらは本文を変えてみたよ </description>
     </item>
     
     <item>
@@ -39,7 +48,7 @@
     </item>
     
     <item>
-      <title>191215test</title>
+      <title>タイトルを変えてみるテスト testB 191215test</title>
       <link>https://pcpg.github.io/moinho/post/191215testB/</link>
       <pubDate>Sun, 15 Dec 2019 13:40:22 +0000</pubDate>
       

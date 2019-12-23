@@ -6,17 +6,32 @@
     <language>en-us</language>
     <author></author>
     <rights>(C) 2019</rights>
-    <updated>2019-12-15 16:40:22 &#43;0000 UTC</updated>
+    <updated>2019-12-23 22:30:00 &#43;0000 UTC</updated>
 
     
       
         <item>
-          <title>ようやく届いたかね</title>
+          <title>Ann, isto é teu gosto?</title>
+          <link>https://pcpg.github.io/moinho/post/19003-thisIsTestToo/</link>
+          <pubDate>Mon, 23 Dec 2019 22:30:00 UTC</pubDate>
+          <author></author>
+          <guid>https://pcpg.github.io/moinho/post/19003-thisIsTestToo/</guid>
+          <description>&lt;p&gt;korewan&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://pcpg.github.io/moinho/i/o-051.jpg&#34; alt=&#34;代替テキスト&#34; /&gt;&lt;/p&gt;
+</description>
+        </item>
+      
+    
+      
+        <item>
+          <title>ようやく届いたかね タイトルの変更テスト</title>
           <link>https://pcpg.github.io/moinho/post/191215testC/</link>
           <pubDate>Sun, 15 Dec 2019 16:40:22 UTC</pubDate>
           <author></author>
           <guid>https://pcpg.github.io/moinho/post/191215testC/</guid>
           <description>&lt;p&gt;ようやく届いたかね
+こちらは本文を変えてみたよ
 &lt;img src=&#34;https://pcpg.github.io/moinho/i/o-059.jpg&#34; alt=&#34;代替テキスト&#34; /&gt;&lt;/p&gt;
 </description>
         </item>
@@ -51,7 +66,7 @@
     
       
         <item>
-          <title>191215test</title>
+          <title>タイトルを変えてみるテスト testB 191215test</title>
           <link>https://pcpg.github.io/moinho/post/191215testB/</link>
           <pubDate>Sun, 15 Dec 2019 13:40:22 UTC</pubDate>
           <author></author>
