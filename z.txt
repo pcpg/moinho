@@ -1,0 +1,7 @@
+Failed to add template "partials/bio.html" in path "partials/bio.html": template: partials/bio.html:2: function "site" not defined
+Failed to add template "partials/func/GetArticleAuthors.html" in path "partials/func/GetArticleAuthors.html": template: partials/func/GetArticleAuthors.html:23: function "site" not defined
+Failed to add template "partials/func/GetArticles.html" in path "partials/func/GetArticles.html": template: partials/func/GetArticles.html:18: function "site" not defined
+partials/bio.html : template: partials/bio.html:2: function "site" not defined
+partials/func/GetArticleAuthors.html : template: partials/func/GetArticleAuthors.html:23: function "site" not defined
+partials/func/GetArticles.html : template: partials/func/GetArticles.html:18: function "site" not defined
+
