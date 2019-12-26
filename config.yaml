@@ -4,7 +4,7 @@ languageCode: ja
 title: moinho, nyanpen 2019
 publishDir: docs
 canonifyurls: true
-theme: lanyon-hugo
+theme: hugo-theme-novela-master
 params:
   AuthorName: ivain
   GitHubUser: pcpg

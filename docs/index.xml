@@ -1,78 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>moinho, nyanpen 2019 </title>
+    <title>moinho, nyanpen 2019</title>
     <link>https://pcpg.github.io/moinho/</link>
-    <language>en-us</language>
-    <author></author>
-    <rights>(C) 2019</rights>
-    <updated>2019-12-25 17:46:11 &#43;0000 UTC</updated>
-
+    <description>Recent content on moinho, nyanpen 2019</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <lastBuildDate>Wed, 25 Dec 2019 17:46:11 +0000</lastBuildDate>
     
-      
-        <item>
-          <title>Measured the level of radioativity</title>
-          <link>https://pcpg.github.io/moinho/post/19005-radio/</link>
-          <pubDate>Wed, 25 Dec 2019 17:46:11 UTC</pubDate>
-          <author></author>
-          <guid>https://pcpg.github.io/moinho/post/19005-radio/</guid>
-          <description>&lt;p&gt;É 0.17 microSievelt por hora.
-Não é muito baixo, mas aceitável&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://pcpg.github.io/moinho/i/o-005.jpg&#34; alt=&#34;代替テキスト&#34; /&gt;&lt;/p&gt;
-</description>
-        </item>
-      
+	<atom:link href="https://pcpg.github.io/moinho/index.xml" rel="self" type="application/rss+xml" />
     
-      
-        <item>
-          <title>Moinho, mesmo</title>
-          <link>https://pcpg.github.io/moinho/post/19005-moinhoMesmo/</link>
-          <pubDate>Fri, 20 Dec 2019 18:40:15 UTC</pubDate>
-          <author></author>
-          <guid>https://pcpg.github.io/moinho/post/19005-moinhoMesmo/</guid>
-          <description>&lt;p&gt;Não posso imaginar como era,
-e como é que se recupera.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://pcpg.github.io/moinho/i/o-066.jpg&#34; alt=&#34;代替テキスト&#34; /&gt;&lt;/p&gt;
-</description>
-        </item>
-      
     
+    <item>
+      <title>Measured the level of radioativity</title>
+      <link>https://pcpg.github.io/moinho/post/19005-radio/</link>
+      <pubDate>Wed, 25 Dec 2019 17:46:11 +0000</pubDate>
       
-        <item>
-          <title>191215test</title>
-          <link>https://pcpg.github.io/moinho/post/19001-teto/</link>
-          <pubDate>Mon, 16 Dec 2019 13:39:22 UTC</pubDate>
-          <author></author>
-          <guid>https://pcpg.github.io/moinho/post/19001-teto/</guid>
-          <description>&lt;p&gt;とにかく屋根が落ちててひどい状態。
-ほっておくと雨が侵入してどんどん劣化が進んでしまいます。&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://pcpg.github.io/moinho/i/o-055.jpg&#34; alt=&#34;代替テキスト&#34; /&gt;&lt;/p&gt;
-</description>
-        </item>
-      
+      <guid>https://pcpg.github.io/moinho/post/19005-radio/</guid>
+      <description>É 0.17 microSievelt por hora. Não é muito baixo, mas aceitável</description>
+    </item>
     
+    <item>
+      <title>Moinho, mesmo</title>
+      <link>https://pcpg.github.io/moinho/post/19005-moinhoMesmo/</link>
+      <pubDate>Fri, 20 Dec 2019 18:40:15 +0000</pubDate>
       
-        <item>
-          <title>moinho</title>
-          <link>https://pcpg.github.io/moinho/post/18919-moinho/</link>
-          <pubDate>Sat, 14 Dec 2019 15:57:00 &#43;0100</pubDate>
-          <author></author>
-          <guid>https://pcpg.github.io/moinho/post/18919-moinho/</guid>
-          <description>&lt;p&gt;これがわたしたちが購入する家です&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://pcpg.github.io/moinho/i/o-000.jpg&#34; alt=&#34;代替テキスト&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;この前の土地は、じつは家にはついてきません。
-複雑な相続で、別の人の名義になっているのです。
-というような矛盾がいっぱいあります。&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://pcpg.github.io/moinho/i/o-001.jpg&#34; alt=&#34;代替テキスト&#34; /&gt;&lt;/p&gt;
-</description>
-        </item>
-      
+      <guid>https://pcpg.github.io/moinho/post/19005-moinhoMesmo/</guid>
+      <description>Não posso imaginar como era, e como é que se recupera.</description>
+    </item>
     
-
+    <item>
+      <title>teto</title>
+      <link>https://pcpg.github.io/moinho/post/19001-teto/</link>
+      <pubDate>Mon, 16 Dec 2019 13:39:22 +0000</pubDate>
+      
+      <guid>https://pcpg.github.io/moinho/post/19001-teto/</guid>
+      <description>とにかく屋根が落ちててひどい状態。 ほっておくと雨が侵入してどんどん劣化が進んでしまいます。</description>
+    </item>
+    
+    <item>
+      <title>moinho</title>
+      <link>https://pcpg.github.io/moinho/post/18919-moinho/</link>
+      <pubDate>Sat, 14 Dec 2019 15:57:00 +0100</pubDate>
+      
+      <guid>https://pcpg.github.io/moinho/post/18919-moinho/</guid>
+      <description>これがわたしたちが購入する家です
+この前の土地は、じつは家にはついてきません。 複雑な相続で、別の人の名義になっているのです。 というような矛盾がいっぱいあります。</description>
+    </item>
+    
   </channel>
 </rss>

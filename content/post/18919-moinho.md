@@ -1,6 +1,8 @@
 ---
 title: "moinho"
 date: 2019-12-14T15:57:00+01:00
+hero: "/i/o-000-e.png"
+excerpt: これがわたしたちが購入する家です
 draft: false
 ---
 
