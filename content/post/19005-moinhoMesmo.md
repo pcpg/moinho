@@ -6,11 +6,13 @@ excerpt: este é o moinho do moinho
 draft: false
 ---
 
+it has turned out to have the mill in it, so we called it "moinho"(mill in portugues)
+but, then, no one knows to how it worked.
+
 Não posso imaginar como era,
 e como é que se recupera.
 この石臼ですが、
 どう復旧させるものやら
 
 
-
-![代替テキスト](/i/o-066.jpg) 
+![tAlt](/i/o-066.jpg) 
