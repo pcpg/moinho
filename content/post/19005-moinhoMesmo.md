@@ -1,8 +1,9 @@
 ---
 title: "Moinho, mesmo"
-date: 2019-12-20T18:40:15Z
-hero: "/i/o-066-e.jpg"
-excerpt: este é o moinho do moinho
+date: 2019-12-21
+hero: "/i/moi-1007-066-e.jpg"
+authors:
+  - ivain
 draft: false
 ---
 
@@ -11,8 +12,16 @@ but, then, no one knows to how it worked.
 
 Não posso imaginar como era,
 e como é que se recupera.
-この石臼ですが、
+
+さて、この石臼ですが、
 どう復旧させるものやら
 
+もしも石臼が復旧できたら、
+小麦をひいてパンを焼けたらいいなと思います。
 
-![tAlt](/i/o-066.jpg) 
+現代では、もはや野望ですね、これは。
+
+Um dia espero que esteja recuperado esse moinho,
+e faria o meu pão feito por aquele farinha processada por este moinho.
+
+![tAlt](/i/moi-1007-066.jpg) 

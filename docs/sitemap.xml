@@ -1,37 +1,55 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://pcpg.github.io/moinho/post/19007-area/</loc>
-    <lastmod>2019-12-25T17:46:11+00:00</lastmod>
+    <loc>https://pcpg.github.io/moinho/</loc>
+    <lastmod>2019-12-31T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://pcpg.github.io/moinho/post/19005-radio/</loc>
-    <lastmod>2019-12-25T17:46:11+00:00</lastmod>
+    <loc>https://pcpg.github.io/moinho/authors/</loc>
+    <lastmod>2019-12-31T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://pcpg.github.io/moinho/postbk/19005-radio/</loc>
-    <lastmod>2019-12-25T17:46:11+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://pcpg.github.io/moinho/postbk/</loc>
-    <lastmod>2019-12-25T17:46:11+00:00</lastmod>
-    <priority>0</priority>
+    <loc>https://pcpg.github.io/moinho/authors/ivain/</loc>
+    <lastmod>2019-12-31T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://pcpg.github.io/moinho/post/</loc>
-    <lastmod>2019-12-25T17:46:11+00:00</lastmod>
-    <priority>0</priority>
+    <lastmod>2019-12-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://pcpg.github.io/moinho/post/19011-entrance/</loc>
+    <lastmod>2019-12-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://pcpg.github.io/moinho/post/19011-portao/</loc>
+    <lastmod>2019-12-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://pcpg.github.io/moinho/post/19011-escada/</loc>
+    <lastmod>2019-12-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://pcpg.github.io/moinho/post/19011-terraco/</loc>
+    <lastmod>2019-12-31T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://pcpg.github.io/moinho/post/19007-covered/</loc>
-    <lastmod>2019-12-25T17:46:11+00:00</lastmod>
+    <lastmod>2019-12-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://pcpg.github.io/moinho/authors/tomoko/</loc>
+    <lastmod>2019-12-26T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -45,38 +63,42 @@
   </url>
   
   <url>
-    <loc>https://pcpg.github.io/moinho/</loc>
-    <lastmod>2019-12-25T17:46:11+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://pcpg.github.io/moinho/post/19007-millCanal/</loc>
+    <loc>https://pcpg.github.io/moinho/post/19005-radio/</loc>
     <lastmod>2019-12-25T17:46:11+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://pcpg.github.io/moinho/post/19007-millExit/</loc>
+    <loc>https://pcpg.github.io/moinho/post/19007-millcanal/</loc>
     <lastmod>2019-12-25T17:46:11+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://pcpg.github.io/moinho/post/19005-moinhoMesmo/</loc>
-    <lastmod>2019-12-20T18:40:15+00:00</lastmod>
+    <loc>https://pcpg.github.io/moinho/post/19007-millexit/</loc>
+    <lastmod>2019-12-25T17:46:11+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://pcpg.github.io/moinho/postbk/19005-moinhoMesmo/</loc>
-    <lastmod>2019-12-20T18:40:15+00:00</lastmod>
+    <loc>https://pcpg.github.io/moinho/authors/tomoko-imashimizu/</loc>
+    <lastmod>2019-12-25T17:46:11+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://pcpg.github.io/moinho/post/19007-area/</loc>
+    <lastmod>2019-12-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://pcpg.github.io/moinho/authors/ivain-ivain/</loc>
+    <lastmod>2019-12-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://pcpg.github.io/moinho/post/19005-moinhomesmo/</loc>
+    <lastmod>2019-12-21T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://pcpg.github.io/moinho/post/19001-teto/</loc>
-    <lastmod>2019-12-16T13:39:22+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://pcpg.github.io/moinho/postbk/19001-teto/</loc>
     <lastmod>2019-12-16T13:39:22+00:00</lastmod>
   </url>
   
@@ -86,18 +108,7 @@
   </url>
   
   <url>
-    <loc>https://pcpg.github.io/moinho/postbk/18919-moinho/</loc>
-    <lastmod>2019-12-14T15:57:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://pcpg.github.io/moinho/categories/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://pcpg.github.io/moinho/tags/</loc>
-    <priority>0</priority>
+    <loc>https://pcpg.github.io/moinho/about/</loc>
   </url>
   
 </urlset>
