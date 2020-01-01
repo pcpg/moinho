@@ -1,13 +1,13 @@
 baseURL: https://pcpg.github.io/moinho/
-disablePathToLower: true
 languageCode: ja
-title: moinho, nyanpen 2019
+title: "moinho, nyanpen 2019"
 publishDir: docs
 canonifyurls: true
+pygmentsstyle: 'monokai'
+paginate: 6
 theme: novela
-params:
-  AuthorName: ivain
-  GitHubUser: pcpg
-  SidebarRecentLimit: 5
-  tagline: versão 2019.12
-  title: História de um moinho
+social:
+  blogger: "http://56qua.blogspot.com"
+taxonomies:
+  author: authors
+
