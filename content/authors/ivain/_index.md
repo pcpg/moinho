@@ -2,7 +2,7 @@
 title: ivain 
 bio: |
   Written by ivain, a japanese living in Portugal. Like to bake bread. Also to programming
-avatar: /i/_ivain.jpg
+avatar: /i/ivain.jpg
 featured: true
 social:
   - title: github

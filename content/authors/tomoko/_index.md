@@ -2,7 +2,7 @@
 title: tomoko
 bio: |
  Written by tomoko. A japanese living in Portugal. Love to eat delicious dishes
-avatar: /i/_tomoko.jpg
+avatar: /i/tomoko.jpg
 featured: True
 social:
   - title: blogger
