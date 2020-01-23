@@ -14,5 +14,6 @@ this is the gate(a portão in portugues)
 The consctructor said that it was rather authentic type    
   and not was ordinary one.
 
-* * *
-> # 2 this is the gate(a portão in portugues)
+## もともとあった外門です。
+工事の人が言うには、金属の質がいいらしく、錆が白い錆がついているそうです。
+いまでは、このように良い質の金属はまれだそうです。

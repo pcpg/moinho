@@ -15,7 +15,6 @@ this is due to the limit of the land.
 このような半地下空間になっています。
 これはなんでしょうか。
 
-
 ![tAlt](/i/moi-1007-069.jpg) 
 
 This is covered by the wall/windows for tha land neiborhood.
